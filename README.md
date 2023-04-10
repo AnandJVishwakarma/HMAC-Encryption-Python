@@ -167,4 +167,4 @@ print("Is message digest 1 is equal to message digest 2? : {}".format(hmac.compa
 
 
 # Reference:
-https://the page.com/tutorials/python/hashlib-compute-secure-hashes-message-digests-in-python
+[https://the page.com/tutorials/python/hashlib-compute-secure-hashes-message-digests-in-python](https://coderzcolumn.com/tutorials/python/hashlib-compute-secure-hashes-message-digests-in-python)
